@@ -1,0 +1,63 @@
+tol=1.0e-04, sigma=2.0, host=unkno, nav=4, nbrs=2, l_repulse=5.000, l_tspring=1.000, l_nspring=0.500, l_intensity=0.200, l_curv=1.000
+mom=0.00, dt=0.50
+complete_dist_mat 0
+rms 0
+smooth_averages 0
+remove_neg 0
+ico_order 0
+which_surface 0
+target_radius 0.000000
+nfields 0
+scale 0.000000
+desired_rms_height 0.000000
+momentum 0.000000
+nbhd_size 0
+max_nbrs 0
+niterations 25
+nsurfaces 0
+SURFACES 3
+flags 262144 (40000)
+use curv 0
+no sulc 0
+no rigid align 0
+mris->nsize 2
+mris->hemisphere 0
+randomSeed 0
+
+000: dt: 0.0000, sse=5719462.0, rms=8.555
+001: dt: 0.5000, sse=5722417.0, rms=5.028 (41.225%)
+002: dt: 0.5000, sse=6095736.5, rms=3.260 (35.155%)
+003: dt: 0.5000, sse=6523444.5, rms=2.857 (12.363%)
+004: dt: 0.5000, sse=6711754.5, rms=2.804 (1.850%)
+005: dt: 0.2500, sse=4925858.0, rms=2.034 (27.481%)
+006: dt: 0.2500, sse=4300804.5, rms=1.650 (18.876%)
+007: dt: 0.2500, sse=4110429.8, rms=1.570 (4.846%)
+008: dt: 0.2500, sse=4021160.8, rms=1.551 (1.193%)
+009: dt: 0.1250, sse=3953347.5, rms=1.522 (1.905%)
+tol=1.0e-04, sigma=1.0, host=unkno, nav=2, nbrs=2, l_repulse=5.000, l_tspring=1.000, l_nspring=0.500, l_intensity=0.200, l_curv=1.000
+mom=0.00, dt=0.50
+000: dt: 0.0000, sse=4388118.0, rms=4.111
+010: dt: 0.5000, sse=4941268.5, rms=2.856 (30.524%)
+011: dt: 0.5000, sse=5810346.5, rms=2.740 (4.073%)
+012: dt: 0.2500, sse=4725888.0, rms=1.913 (30.177%)
+013: dt: 0.2500, sse=4387281.5, rms=1.523 (20.402%)
+014: dt: 0.2500, sse=4242108.5, rms=1.439 (5.489%)
+015: dt: 0.2500, sse=4179113.8, rms=1.423 (1.100%)
+016: dt: 0.1250, sse=4122388.5, rms=1.384 (2.759%)
+tol=1.0e-04, sigma=0.5, host=unkno, nav=1, nbrs=2, l_repulse=5.000, l_tspring=1.000, l_nspring=0.500, l_intensity=0.200, l_curv=1.000
+mom=0.00, dt=0.50
+000: dt: 0.0000, sse=4243823.5, rms=2.644
+017: dt: 0.5000, sse=4660855.5, rms=2.361 (10.725%)
+018: dt: 0.2500, sse=4407861.5, rms=1.701 (27.961%)
+019: dt: 0.2500, sse=4445362.0, rms=1.413 (16.930%)
+020: dt: 0.2500, sse=4380513.5, rms=1.377 (2.501%)
+021: dt: 0.1250, sse=4315981.5, rms=1.326 (3.730%)
+022: dt: 0.1250, sse=4280610.0, rms=1.324 (0.115%)
+tol=1.0e-04, sigma=0.2, host=unkno, nav=0, nbrs=2, l_repulse=5.000, l_tspring=1.000, l_nspring=0.500, l_intensity=0.200, l_curv=1.000
+mom=0.00, dt=0.50
+000: dt: 0.0000, sse=4324901.0, rms=1.848
+023: dt: 0.5000, sse=5911867.5, rms=1.736 (6.065%)
+024: dt: 0.2500, sse=5267880.5, rms=1.207 (30.464%)
+025: dt: 0.2500, sse=4997929.5, rms=1.120 (7.190%)
+026: dt: 0.2500, sse=5108200.0, rms=1.074 (4.147%)
+027: dt: 0.1250, sse=5078485.5, rms=1.057 (1.532%)
